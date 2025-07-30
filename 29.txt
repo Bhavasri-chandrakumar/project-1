@@ -1,0 +1,4 @@
+2nd class
+learned about git initialization
+pull and push
+branch

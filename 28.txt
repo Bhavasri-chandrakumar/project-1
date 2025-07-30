@@ -1,0 +1,3 @@
+1st class
+learned about linux comments
+
